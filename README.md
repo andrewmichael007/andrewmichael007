@@ -1,5 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning learning  all it takes to be a proficient software engineer. <br>- 👯 I’m looking to collaborate on  software engineer , ML and AI projects.<br>- 🤔 I’m looking for help with  ML and AI<br>- 💬 Ask me about  ? <br>- 📫 How to reach me: ...<br>- 😄 Pronouns:  he / him<br>- ⚡ Fun fact:  ? 
 
 
 # 💻 Tech Stack:
